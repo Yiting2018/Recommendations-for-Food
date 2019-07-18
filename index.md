@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# **Recommendations-for-Food**
+# **Recommendations for Food**
 
 In this group project, our goal is to recommend food for different users by predicting ratings for food recipes based on the rating history of each users. We used the dataset from Kaggle: [Project Dataset: foodrecsysv1](https://www.kaggle.com/elisaxxygao/foodrecsysv1).
 
