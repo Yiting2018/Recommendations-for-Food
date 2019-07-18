@@ -14,7 +14,7 @@ Please see the [Jupyter Notebook](https://github.com/Yiting2018/Recommendations-
 
 ## Slides
 
-<img src="https://github.com/Yiting2018/Recommendations-for-Food/blob/master/documents/PowerPoint/1.jpg" />
+<img src="https://github.com/Yiting2018/Recommendations-for-Food/blob/master/documents/PowerPoint/1.jpg" alt="drawing" width="200"/>
 
 ![](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/documents/PowerPoint/1.jpg =250x)
 
