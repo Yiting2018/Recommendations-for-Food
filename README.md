@@ -14,4 +14,5 @@ Please see the [Jupyter Notebook](https://github.com/Yiting2018/Recommendations-
 
 ## Slides
 
-![PowerPoint](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/Recipes_Rating_System.pdf)
+[](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/1.jpg)
+[](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/2.jpg)
