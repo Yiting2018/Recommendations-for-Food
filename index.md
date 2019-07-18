@@ -12,6 +12,8 @@ The one of the unique features about our model is it can change throughout time.
 ## Code
 Please see the [Jupyter Notebook](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/documents/Recipe_rating_prediction.html) for details.
 
+### [Go Back to Homepage](https://yiting2018.github.io)
+
 ## Slides
 <img src="./documents/PowerPoint/1.jpg" width="1000" height = "400" alt="" />
 <img src="./documents/PowerPoint/2.jpg" width="1000" height = "400" alt="" />
