@@ -14,6 +14,8 @@ Please see the [Jupyter Notebook](https://github.com/Yiting2018/Recommendations-
 
 ## Slides
 
+<embed src="./documents/Recipes_Rating_System.pdf" type="application/pdf" />
+
 <img src="./documents/PowerPoint/1.jpg" width="1000" height = "563" alt="" />
 
 ![](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/documents/PowerPoint/1.jpg)
