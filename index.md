@@ -13,9 +13,6 @@ The one of the unique features about our model is it can change throughout time.
 Please see the [Jupyter Notebook](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/documents/Recipe_rating_prediction.html) for details.
 
 ## Slides
-
-<embed src="./documents/Recipes_Rating_System.pdf" type="application/pdf" />
-
 <img src="./documents/PowerPoint/1.jpg" width="1000" height = "400" alt="" />
 <img src="./documents/PowerPoint/2.jpg" width="1000" height = "400" alt="" />
 <img src="./documents/PowerPoint/3.jpg" width="1000" height = "400" alt="" />
@@ -30,3 +27,7 @@ Please see the [Jupyter Notebook](https://github.com/Yiting2018/Recommendations-
 <img src="./documents/PowerPoint/12.jpg" width="1000" height = "400" alt="" />
 <img src="./documents/PowerPoint/13.jpg" width="1000" height = "400" alt="" />
 <img src="./documents/PowerPoint/14.jpg" width="1000" height = "400" alt="" />
+
+<embed src="./documents/Recipes_Rating_System.pdf" type="application/pdf" />
+
+### [Go Back to Homepage](https://yiting2018.github.io)
