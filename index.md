@@ -30,6 +30,6 @@ Please see the [Jupyter Notebook](https://github.com/Yiting2018/Recommendations-
 <img src="./documents/PowerPoint/13.jpg" width="1000" height = "400" alt="" />
 <img src="./documents/PowerPoint/14.jpg" width="1000" height = "400" alt="" />
 
-<embed src="./documents/Recipes_Rating_System.pdf" type="application/pdf" />
+### [Download PDF]("./documents/Recipes_Rating_System.pdf")
 
 ### [Go Back to Homepage](https://yiting2018.github.io)
