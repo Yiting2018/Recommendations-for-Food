@@ -15,4 +15,16 @@ Please see the [Jupyter Notebook](https://github.com/Yiting2018/Recommendations-
 ## Slides
 
 ![](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/1.jpg)
-[2](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/2.jpg)
+![](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/2.jpg)
+![](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/3.jpg)
+![](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/4.jpg)
+![](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/5.jpg)
+![](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/6.jpg)
+![](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/7.jpg)
+![](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/8.jpg)
+![](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/9.jpg)
+![](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/10.jpg)
+![](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/11.jpg)
+![](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/12.jpg)
+![](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/13.jpg)
+![](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/14.jpg)
