@@ -16,20 +16,17 @@ Please see the [Jupyter Notebook](https://github.com/Yiting2018/Recommendations-
 
 <embed src="./documents/Recipes_Rating_System.pdf" type="application/pdf" />
 
-<img src="./documents/PowerPoint/1.jpg" width="1000" height = "563" alt="" />
-
-![](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/documents/PowerPoint/1.jpg)
-
-![](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/2.jpg)
-![](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/3.jpg)
-![](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/4.jpg)
-![](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/5.jpg)
-![](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/6.jpg)
-![](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/7.jpg)
-![](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/8.jpg)
-![](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/9.jpg)
-![](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/10.jpg)
-![](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/11.jpg)
-![](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/12.jpg)
-![](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/13.jpg)
-![](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/14.jpg)
+<img src="./documents/PowerPoint/1.jpg" width="1000" height = "400" alt="" />
+<img src="./documents/PowerPoint/2.jpg" width="1000" height = "400" alt="" />
+<img src="./documents/PowerPoint/3.jpg" width="1000" height = "400" alt="" />
+<img src="./documents/PowerPoint/4.jpg" width="1000" height = "400" alt="" />
+<img src="./documents/PowerPoint/5.jpg" width="1000" height = "400" alt="" />
+<img src="./documents/PowerPoint/6.jpg" width="1000" height = "400" alt="" />
+<img src="./documents/PowerPoint/7.jpg" width="1000" height = "400" alt="" />
+<img src="./documents/PowerPoint/8.jpg" width="1000" height = "400" alt="" />
+<img src="./documents/PowerPoint/9.jpg" width="1000" height = "400" alt="" />
+<img src="./documents/PowerPoint/10.jpg" width="1000" height = "400" alt="" />
+<img src="./documents/PowerPoint/11.jpg" width="1000" height = "400" alt="" />
+<img src="./documents/PowerPoint/12.jpg" width="1000" height = "400" alt="" />
+<img src="./documents/PowerPoint/13.jpg" width="1000" height = "400" alt="" />
+<img src="./documents/PowerPoint/14.jpg" width="1000" height = "400" alt="" />
