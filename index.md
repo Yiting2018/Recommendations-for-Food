@@ -15,6 +15,7 @@ Please see the [Jupyter Notebook](https://github.com/Yiting2018/Recommendations-
 ### [Go Back to Homepage](https://yiting2018.github.io)
 
 ## Slides
+#### [Download PDF]("./documents/Recipes_Rating_System.pdf")
 <img src="./documents/PowerPoint/1.jpg" width="1000" height = "400" alt="" />
 <img src="./documents/PowerPoint/2.jpg" width="1000" height = "400" alt="" />
 <img src="./documents/PowerPoint/3.jpg" width="1000" height = "400" alt="" />
@@ -29,7 +30,5 @@ Please see the [Jupyter Notebook](https://github.com/Yiting2018/Recommendations-
 <img src="./documents/PowerPoint/12.jpg" width="1000" height = "400" alt="" />
 <img src="./documents/PowerPoint/13.jpg" width="1000" height = "400" alt="" />
 <img src="./documents/PowerPoint/14.jpg" width="1000" height = "400" alt="" />
-
-### [Download PDF]("./documents/Recipes_Rating_System.pdf")
 
 ### [Go Back to Homepage](https://yiting2018.github.io)
