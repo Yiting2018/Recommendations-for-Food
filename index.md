@@ -15,7 +15,7 @@ Please see the [Jupyter Notebook](https://github.com/Yiting2018/Recommendations-
 ### [Go Back to Homepage](https://yiting2018.github.io)
 
 ## Slides
-#### [Download PDF]("./documents/Recipes_Rating_System.pdf")
+#### [Download PDF]("https://github.com/Yiting2018/Recommendations-for-Food/blob/master/documents/Recipes_Rating_System.pdf")
 <img src="./documents/PowerPoint/1.jpg" width="1000" height = "400" alt="" />
 <img src="./documents/PowerPoint/2.jpg" width="1000" height = "400" alt="" />
 <img src="./documents/PowerPoint/3.jpg" width="1000" height = "400" alt="" />
