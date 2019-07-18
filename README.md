@@ -14,5 +14,5 @@ Please see the [Jupyter Notebook](https://github.com/Yiting2018/Recommendations-
 
 ## Slides
 
-[](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/1.jpg)
-[](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/2.jpg)
+[1](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/1.jpg)
+[2](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/PowerPoint/2.jpg)
