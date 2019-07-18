@@ -10,7 +10,7 @@ During the process, we cleaned and manipulated the data, identified the most imp
 The one of the unique features about our model is it can change throughout time. **The model itself is not fixed.** People's preferences may change, so should the prediction models.
 
 ## Code
-Please see the [Jupyter Notebook](https://github.com/Yiting2018/Recommendations-for-Food/blob/master/documents/Recipe_rating_prediction.html) for details.
+Please see the [Jupyter Notebook](Recipe_rating_prediction.html) for details.
 
 ### [Go Back to Homepage](https://yiting2018.github.io)
 
