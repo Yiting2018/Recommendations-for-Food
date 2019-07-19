@@ -31,4 +31,6 @@ Please see the [Jupyter Notebook](http://htmlpreview.github.io/?https://github.c
 <img src="./documents/PowerPoint/13.jpg" width="1000" height = "400" alt="" />
 <img src="./documents/PowerPoint/14.jpg" width="1000" height = "400" alt="" />
 
-### [Go Back to Homepage](https://yiting2018.github.io)
+<br>
+
+## [Go Back to Homepage](https://yiting2018.github.io)
